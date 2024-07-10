@@ -1,4 +1,4 @@
-Sistema Experto De una Recomendación de Libros Mediante una Red Neuronal
+ # Sistema Experto De una Recomendación de Libros Mediante una Red Neuronal
 
 Lenguaje: Python
 
@@ -31,7 +31,7 @@ python train_model.py
 # Ejecutar la aplicación web
 python app.py
 
-# POR SI EL USUARIO DESEA SABER COMO FUERON LOS RESULTADOS DEL TRENAMIENTO
+# POR SI EL USUARIO DESEA SABER COMO FUERON LOS RESULTADOS DEL ENTRENAMIENTO
 Puede revisar el training_history.csv
 
 # O si el usuario lo desea ver de forma grafica
