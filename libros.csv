@@ -1,0 +1,51 @@
+id_libro,titulo,autor,genero,calificacion,image_url
+1,Matar a un ruiseñor,Harper Lee,Crecimiento Personal,4.8,images/downloaded_image_1.jpg
+2,1984,George Orwell,Ciencia Ficción,4.7,images/downloaded_image_2.jpg
+3,Harry Potter y la piedra filosofal,J.K. Rowling,Aventura,4.9,images/downloaded_image_3.jpg
+4,El gran Gatsby,F. Scott Fitzgerald,Crecimiento Personal,4.6,images/downloaded_image_4.jpg
+5,El guardián entre el centeno,J.D. Salinger,Crecimiento Personal,4.4,images/downloaded_image_5.jpg
+6,El hobbit,J.R.R. Tolkien,Aventura,4.8,images/downloaded_image_6.jpg
+7,Fahrenheit 451,Ray Bradbury,Ciencia Ficción,4.5,images/downloaded_image_7.jpg
+8,Jane Eyre,Charlotte Brontë,Romántico,4.7,images/downloaded_image_8.jpg
+9,Orgullo y prejuicio,Jane Austen,Romántico,4.8,images/downloaded_image_9.jpg
+10,El Señor de los Anillos,J.R.R. Tolkien,Aventura,4.9,images/downloaded_image_10.jpg
+11,Crónica de una muerte anunciada,Gabriel García Márquez,Crecimiento Personal,4.6,images/downloaded_image_11.jpg
+12,Don Quijote de la Mancha,Miguel de Cervantes,Crecimiento Personal,4.9,images/downloaded_image_12.jpg
+13,La sombra del viento,Carlos Ruiz Zafón,Suspenso,4.8,images/downloaded_image_13.jpg
+14,Los juegos del hambre,Suzanne Collins,Ciencia Ficción,4.7,images/downloaded_image_14.jpg
+15,El nombre de la rosa,Umberto Eco,Suspenso,4.7,images/downloaded_image_15.jpg
+16,El alquimista,Paulo Coelho,Aventura,4.5,images/downloaded_image_16.jpg
+17,El código Da Vinci,Dan Brown,Suspenso,4.4,images/downloaded_image_17.jpg
+18,La catedral del mar,Ildefonso Falcones,Suspenso,4.8,images/downloaded_image_18.jpg
+19,El retrato de Dorian Gray,Oscar Wilde,Crecimiento Personal,4.5,images/downloaded_image_19.jpg
+20,La carretera,Cormac McCarthy,Ciencia Ficción,4.6,images/downloaded_image_20.jpg
+21,Un mundo feliz,Aldous Huxley,Ciencia Ficción,4.7,images/downloaded_image_21.jpg
+22,El psicoanalista,John Katzenbach,Terror,4.4,images/downloaded_image_22.jpg
+23,La chica del tren,Paula Hawkins,Suspenso,4.5,images/downloaded_image_23.jpg
+24,El club de la lucha,Chuck Palahniuk,Acción,4.6,images/downloaded_image_24.jpg
+25,El jinete de bronce,Paullina Simons,Romántico,4.8,images/downloaded_image_25.jpg
+26,El Terror,Dan Simmons,Terror,4.7,images/downloaded_image_26.jpg
+27,El día que se perdió la cordura,Javier Castillo,Suspenso,4.6,images/downloaded_image_27.jpg
+28,La ladrona de libros,Markus Zusak,Crecimiento Personal,4.9,images/downloaded_image_28.jpg
+29,El último deseo,Andrzej Sapkowski,Aventura,4.8,images/downloaded_image_29.jpg
+30,El príncipe,Nicolás Maquiavelo,Crecimiento Personal,4.5,images/downloaded_image_30.jpg
+31,La niña alemana,Armando Lucas Correa,Crecimiento Personal,4.6,images/downloaded_image_31.jpg
+32,Las chicas de la 305,Ana González Duque,Suspenso,4.7,images/downloaded_image_32.jpg
+33,El hombre en el castillo,Philip K. Dick,Ciencia Ficción,4.8,images/downloaded_image_33.jpg
+34,El país de las sombras largas,Hans Ruesch,Crecimiento Personal,4.9,images/downloaded_image_34.jpg
+35,Los pilares de la Tierra,Ken Follett,Crecimiento Personal,4.5,images/downloaded_image_35.jpg
+36,El lobo de Wall Street,Jordan Belfort,Crecimiento Personal,4.8,images/downloaded_image_36.jpg
+37,El guerrero del amanecer,David Gemmell,Acción,4.7,images/downloaded_image_37.jpg
+38,Los siete hábitos de la gente altamente efectiva,Stephen R. Covey,Crecimiento Personal,4.9,images/downloaded_image_38.jpg
+39,La guía del autoestopista galáctico,Douglas Adams,Ciencia Ficción,4.5,images/downloaded_image_39.jpg
+40,El arte de la guerra,Sun Tzu,Crecimiento Personal,4.6,images/downloaded_image_40.jpg
+41,La esposa del viajero en el tiempo,Audrey Niffenegger,Romántico,4.7,images/downloaded_image_41.jpg
+42,El jardín secreto,Frances Hodgson Burnett,Romántico,4.4,images/downloaded_image_42.jpg
+43,El niño con el pijama de rayas,John Boyne,Romántico,4.8,images/downloaded_image_43.jpg
+44,El último samurái,Helen DeWitt,Aventura,4.5,images/downloaded_image_44.jpg
+45,La casa de los espíritus,Isabel Allende,Crecimiento Personal,4.9,images/downloaded_image_45.jpg
+46,El hobbit,J.R.R. Tolkien,Ciencia Ficcion,4.6,images/downloaded_image_46.jpg
+47,La casa en el confín de la tierra,William Hope Hodgson,Terror,4.5,images/downloaded_image_47.jpg
+48,El hombre que susurraba a los caballos,Nicholas Evans,Romántico,4.6,images/downloaded_image_48.jpg
+49,El médico,Noah Gordon,Aventura,4.7,images/downloaded_image_49.jpg
+50,El corazón de las tinieblas,Joseph Conrad,Crecimiento Personal,4.9,images/downloaded_image_50.jpg
