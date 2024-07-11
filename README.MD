@@ -1,6 +1,10 @@
  # Sistema Experto De una Recomendación de Libros Mediante una Red Neuronal
 
-# Lenguaje Utilizado: Python
+# Resumen: 
+Es un Modelo previamente entrenado mediante las tecnicas del Machine-Learning que te recomienda libros en base a la misma categoria o genero que sea del libro que previamente seleccionado.
+
+Lenguaje Utilizado: Python
+
 
 # Librerias Utilizadas:
 Flask
@@ -11,8 +15,6 @@ scikit-learn
 
 # Resumen: 
 Es un Modelo previamente entrenado mediante las tecnicas del Machine-Learning que te recomienda libros en base a la misma categoria o genero que sea del libro que previamente seleccionado
-
-
 
 
 # Pasos Para Ejecutar el Sistema
