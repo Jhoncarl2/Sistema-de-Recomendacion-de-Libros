@@ -1,6 +1,6 @@
  # Sistema Experto De una Recomendación de Libros Mediante una Red Neuronal
 
-# Lenguaje: Python
+# Lenguaje Utilizado: Python
 
 # Librerias Utilizadas:
 Flask
@@ -17,23 +17,23 @@ Es un Modelo previamente entrenado mediante las tecnicas del Machine-Learning qu
 
 # Pasos Para Ejecutar el Sistema
 
- Instalar dependencias
+ Instalar dependencias:
 pip install -r requirements.txt
 
- Crear Libros
+ Crear Libros:
 python crear_libros.py
 
- Preparar los datos
+ Preparar los datos:
 python data_preparation.py
 
- Entrenar el modelo
+ Entrenar el modelo:
 python train_model.py
 
- Ejecutar la aplicación web
+ Ejecutar la aplicación web;
 python app.py
 
- POR SI EL USUARIO DESEA SABER COMO FUERON LOS RESULTADOS DEL ENTRENAMIENTO
+ POR SI EL USUARIO DESEA SABER COMO FUERON LOS RESULTADOS DEL ENTRENAMIENTO:
 Puede revisar el training_history.csv
 
- O si el usuario lo desea ver de forma grafica
+ O si el usuario lo desea ver de forma grafica:
 python analizar_resultados.py
