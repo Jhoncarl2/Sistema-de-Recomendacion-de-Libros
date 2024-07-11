@@ -16,8 +16,8 @@ scikit-learn
 
 # Pasos Para Ejecutar el Sistema
 
- Instalar dependencias:
-pip install -r requirements.txt
+ Instalar cada libreria que se encuentra en el archivo requirements.txt:
+pip install "nombre de la libreria" (sin las comillas)
 
  Crear Libros:
 python crear_libros.py
